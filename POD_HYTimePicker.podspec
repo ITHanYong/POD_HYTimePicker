@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'POD_HYTimePicker'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of POD_HYTimePicker.'
+  s.version          = '1.0.0'
+  s.summary          = '时分选择器'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/ITHanYong/POD_HYTimePicker'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'ITHanYong' => 'naruto_aone@126.com' }
+  s.author           = { 'ITHanYong' => '1152829171@qq.com' }
   s.source           = { :git => 'https://github.com/ITHanYong/POD_HYTimePicker.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
