@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'POD_HYTimePicker'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = '时分选择器'
 
 # This description is used to generate tags and improve search results.
